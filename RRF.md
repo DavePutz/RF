@@ -21,3 +21,26 @@ Faceted Electric Tea Light
 
 3d Toddler Mobility Trainer
  https://makerworld.com/en/models/2066081-3d-toddler-mobility-trainer
+
+Butterfly Vase
+ https://www.printables.com/model/523215-butterfly-vase/collections
+
+Heart Swing
+ https://makerworld.com/en/models/1038267-heart-swing
+
+Toys for Tots
+ https://www.ic3dprinters.com/2025-toys/
+
+Christmas Tree
+ https://www.thingiverse.com/thing:1913982
+
+Gridfinity
+ https://www.youtube.com/watch?v=7FCwMq-rVsY
+
+Kinetic Fidget Spinner
+ https://makerworld.com/en/models/1205691-kinetic-fidget
+
+Lithopane Trophy
+ https://www.ptpcreate.com/colorlithophane
+
+
