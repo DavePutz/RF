@@ -41,7 +41,7 @@ Kinetic Fidget Spinner
  https://makerworld.com/en/models/1205691-kinetic-fidget
 
 Lithopane Trophy
- https://www.ptpcreate.com/colorlithophane
+ https://www.ptpcreate.com/colorlithophane  
  https://github.com/DavePutz/3dstuff/tree/main/trophy-scad-files
 
 
