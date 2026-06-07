@@ -42,5 +42,6 @@ Kinetic Fidget Spinner
 
 Lithopane Trophy
  https://www.ptpcreate.com/colorlithophane
+ https://github.com/DavePutz/3dstuff/tree/main/trophy-scad-files
 
 
