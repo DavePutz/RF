@@ -35,13 +35,24 @@ Christmas Tree
  https://www.thingiverse.com/thing:1913982
 
 Gridfinity
- https://www.youtube.com/watch?v=7FCwMq-rVsY
+ https://www.youtube.com/watch?v=7FCwMq-rVsY  
+ https://www.youtube.com/watch?v=TvIvoY013xQ  
+ https://gridfinity.tools/
+
+Gridfinity Generator
+ https://gridfinity.perplexinglabs.com/
+
+Gridfinity for Dummies
+ https://www.youtube.com/watch?v=TvIvoY013xQ&t=7s
 
 Kinetic Fidget Spinner
  https://makerworld.com/en/models/1205691-kinetic-fidget
 
 Lithopane Trophy
- https://www.ptpcreate.com/colorlithophane
+ https://www.ptpcreate.com/colorlithophane  
  https://github.com/DavePutz/3dstuff/tree/main/trophy-scad-files
+
+Maker Chip
+ https://makerworld.com/en/models/415825-makerchip-maker-chip-the-new-makercoin
 
 
